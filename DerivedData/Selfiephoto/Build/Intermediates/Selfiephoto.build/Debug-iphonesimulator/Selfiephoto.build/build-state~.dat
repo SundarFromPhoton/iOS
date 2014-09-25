@@ -1,0 +1,710 @@
+TSelfiephoto
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch.pch Selfiephoto/Selfiephoto-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/ViewController.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperationManager.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFNetworkReachabilityManager.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLResponseSerialization.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFSecurityPolicy.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPSessionManager.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLRequestSerialization.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLSessionManager.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AppDelegate.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/main.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto normal i386
+cCopyStringsFile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/en.lproj/InfoPlist.strings Selfiephoto/en.lproj/InfoPlist.strings
+cCopyPlistFile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/InstagramKit.plist Selfiephoto/InstagramKit.plist
+cCompileStoryboard /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Images.xcassets
+cProcessInfoPlistFile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Info.plist /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Info.plist
+cGenerateDSYMFile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app.dSYM /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto
+cTouch /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005384F5A400000000000003B4
+t1401222564
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005384F5B6000000000000019E
+t1401222582
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005384F5BB0000000000446820
+t1401222587
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005384F5BF000000000088D8C0
+t1401222591
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005384F5CC0000000001F1DE10
+t1401222604
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c000000005384F6390000000000000ADC
+t1401222713
+s2780
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch.pch
+t1411660714
+s116652
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperation.o
+t1411660714
+s44704
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+t1411660714
+s53920
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPSessionManager.o
+t1411660715
+s64888
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+t1411660714
+s44084
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFSecurityPolicy.o
+t1411660715
+s48320
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLConnectionOperation.o
+t1411660715
+s197684
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLRequestSerialization.o
+t1411660715
+s212700
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLResponseSerialization.o
+t1411660715
+s89380
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLSessionManager.o
+t1411660715
+s193924
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AppDelegate.o
+t1411660715
+s62416
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/Selfiephoto.LinkFileList
+c0000000054243BA600000000000009E9
+t1411660710
+s2537
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/UIImageView+AFNetworking.o
+t1411660714
+s72016
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/ViewController.o
+t1411660714
+s39008
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/main.o
+t1411660715
+s3576
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/assetcatalog_dependencies.txt
+t1411660725
+s495
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/assetcatalog_generated_info.plist
+t1411660725
+s525
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app
+t1411660725
+s340
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app.dSYM
+t2
+s0
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Base.lproj/Main.storyboardc
+t1411660723
+s170
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Info.plist
+t1411660725
+s1019
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/InstagramKit.plist
+t1411660717
+s306
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/PkgInfo
+t1411660725
+s8
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto
+t1411660717
+s497700
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/en.lproj/InfoPlist.strings
+t1411660717
+s42
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.m
+c0000000053FCC9D00000000000001CFD
+t1409075664
+s7421
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperationManager.m
+c0000000053FCC9D0000000000000291C
+t1409075664
+s10524
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPSessionManager.m
+c0000000053FCC9D00000000000002E41
+t1409075664
+s11841
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.m
+c0000000053FCC9D00000000000002520
+t1409075664
+s9504
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.m
+c0000000053FCC9D00000000000003047
+t1409075664
+s12359
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.m
+c0000000053FCC9D0000000000000682F
+t1409075664
+s26671
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.m
+c0000000053FCC9D0000000000000B591
+t1409075664
+s46481
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.m
+c0000000053FCC9D00000000000005D3F
+t1409075664
+s23871
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.m
+c0000000053FCC9D0000000000000A185
+t1409075664
+s41349
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.m
+c0000000054243A6A00000000000007DB
+t1411660394
+s2011
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Base.lproj/Main.storyboard
+c0000000054243A6A000000000000071B
+t1411660394
+s1819
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Images.xcassets
+c0000000054243A6A0000000000000088
+t1411660394
+s136
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/InstagramKit.plist
+c00000000542380E70000000000000213
+t1411612903
+s531
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Info.plist
+c0000000054243A6A00000000000004C3
+t1411660394
+s1219
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Prefix.pch
+c0000000054243A6A0000000000000158
+t1411660394
+s344
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/UIImageView+AFNetworking.m
+c0000000053FCC9D00000000000001D77
+t1409075664
+s7543
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/ViewController.m
+c0000000054243A6A00000000000001F1
+t1411660394
+s497
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/en.lproj/InfoPlist.strings
+c0000000054243A6A000000000000002D
+t1411660394
+s45
+
+N/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/main.m
+c0000000054243A6A0000000000000155
+t1411660394
+s341
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperationManager.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPSessionManager.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/UIImageView+AFNetworking.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/ViewController.m
+r0
+
+CBuild AST from /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2e1bcd2673d4b941^8e73ef2673d4b941^---0#1#1#--18"Check dependencies36"87C44D01-6952-4671-9A80-583029EB284D-
+
+CCompileAssetCatalog /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Images.xcassets
+s433353523.968099
+e433353525.776992
+r1
+xCompileAssetCatalog
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/LaunchImage-700-568h@2x.png
+o/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Assets.car
+o/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CompileAssetCatalog DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app Selfiephoto/Images.xcassets124"CompileAssetCatalog DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app Selfiephoto/Images.xcassetsffecf73373d4b941^57e9c63573d4b941^-523"/* com.apple.actool.compilation-results *//Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/LaunchImage-700-568h@2x.png/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Assets.car/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@85"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Images.xcassets/0000000000000000^1321"CompileAssetCatalog DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app Selfiephoto/Images.xcassets    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Images.xcassets36"B8658866-6146-4E16-B2FF-12D9E921C02E-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperation.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353514.125181
+e433353514.537234
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperation.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.m260"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperation.o Selfiephoto/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6b44202a73d4b941^6a89892a73d4b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.m0000000000000000^4308"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperation.o Selfiephoto/AFHTTPRequestOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperation.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperation.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperation.o36"091A3F5B-4BC4-4D4A-A385-A82E78565A60-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperationManager.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353514.559614
+e433353514.990759
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperationManager.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperationManager.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperationManager.m274"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperationManager.o Selfiephoto/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf7c78f2a73d4b941^62a2fd2a73d4b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperationManager.m0000000000000000^4350"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperationManager.o Selfiephoto/AFHTTPRequestOperationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperationManager.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperationManager.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperationManager.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperationManager.o36"9762D30F-967A-4142-B461-62C8EEEFCDEC-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPSessionManager.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353515.232501
+e433353515.409120
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPSessionManager.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPSessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPSessionManager.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPSessionManager.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPSessionManager.m256"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPSessionManager.o Selfiephoto/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerada63b2b73d4b941^8c9d682b73d4b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPSessionManager.m0000000000000000^4296"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPSessionManager.o Selfiephoto/AFHTTPSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPSessionManager.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPSessionManager.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPSessionManager.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPSessionManager.o36"2535B973-8AC9-4E5E-A0F0-CE71F916970C-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFNetworkReachabilityManager.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353514.689281
+e433353514.861006
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.m272"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFNetworkReachabilityManager.o Selfiephoto/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler09e2b02a73d4b941^58addc2a73d4b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.m0000000000000000^4344"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFNetworkReachabilityManager.o Selfiephoto/AFNetworkReachabilityManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFNetworkReachabilityManager.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFNetworkReachabilityManager.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFNetworkReachabilityManager.o36"514723D5-E5C7-4757-AF7A-EBE144D9462D-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFSecurityPolicy.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353515.103233
+e433353515.232132
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFSecurityPolicy.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.m248"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFSecurityPolicy.o Selfiephoto/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler74991a2b73d4b941^016d3b2b73d4b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.m0000000000000000^4272"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFSecurityPolicy.o Selfiephoto/AFSecurityPolicy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFSecurityPolicy.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFSecurityPolicy.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFSecurityPolicy.o36"B6BBFA42-39F7-4F7F-9267-97211FFCFC67-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLConnectionOperation.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353514.991101
+e433353515.386380
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLConnectionOperation.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.m264"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLConnectionOperation.o Selfiephoto/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb2d9fd2a73d4b941^eaea622b73d4b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.m0000000000000000^4320"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLConnectionOperation.o Selfiephoto/AFURLConnectionOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLConnectionOperation.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLConnectionOperation.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLConnectionOperation.o36"9D5B8F8E-14B4-4064-89EA-51A85B97ABD1-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLRequestSerialization.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353515.386788
+e433353515.709560
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLRequestSerialization.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.m266"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLRequestSerialization.o Selfiephoto/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb724632b73d4b941^82aeb52b73d4b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.m0000000000000000^4326"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLRequestSerialization.o Selfiephoto/AFURLRequestSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLRequestSerialization.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLRequestSerialization.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLRequestSerialization.o36"625A1DE0-9634-47E9-84B6-912D2DD6E5B3-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLResponseSerialization.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353514.861384
+e433353515.102727
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLResponseSerialization.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.m268"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLResponseSerialization.o Selfiephoto/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler72a3dc2a73d4b941^49841a2b73d4b941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.m0000000000000000^4332"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLResponseSerialization.o Selfiephoto/AFURLResponseSerialization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLResponseSerialization.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLResponseSerialization.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLResponseSerialization.o36"A8BC0231-12D6-4239-8783-EEC18F2C2A92-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLSessionManager.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353515.409484
+e433353515.715194
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLSessionManager.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLRequestSerialization.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFNetworkReachabilityManager.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.m254"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLSessionManager.o Selfiephoto/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1d00692b73d4b941^7959b72b73d4b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.m0000000000000000^4290"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLSessionManager.o Selfiephoto/AFURLSessionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLSessionManager.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLSessionManager.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLSessionManager.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLSessionManager.o36"CC86E325-47E4-4A12-BC5B-BAC7DBC57F50-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AppDelegate.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353515.710496
+e433353515.868631
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AppDelegate.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.m238"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AppDelegate.o Selfiephoto/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1002b62b73d4b941^965fde2b73d4b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.m0000000000000000^4242"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AppDelegate.o Selfiephoto/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AppDelegate.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AppDelegate.o36"1E3958F6-4A1B-48BD-B551-76D849644B6B-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/UIImageView+AFNetworking.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353514.126261
+e433353514.559207
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/UIImageView+AFNetworking.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/UIImageView+AFNetworking.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/UIImageView+AFNetworking.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/UIImageView+AFNetworking.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLResponseSerialization.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFHTTPRequestOperation.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFURLConnectionOperation.h
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AFSecurityPolicy.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/UIImageView+AFNetworking.m264"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/UIImageView+AFNetworking.o Selfiephoto/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdb8b202a73d4b941^25748f2a73d4b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/UIImageView+AFNetworking.m0000000000000000^4320"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/UIImageView+AFNetworking.o Selfiephoto/UIImageView+AFNetworking.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/UIImageView+AFNetworking.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/UIImageView+AFNetworking.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/UIImageView+AFNetworking.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/UIImageView+AFNetworking.o36"C7BC8C5A-8AC5-4205-8265-9591D4CB7F15-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/ViewController.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353514.537635
+e433353514.688902
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/ViewController.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/ViewController.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/ViewController.m244"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/ViewController.o Selfiephoto/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf4c2892a73d4b941^c479b02a73d4b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/ViewController.m0000000000000000^4260"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/ViewController.o Selfiephoto/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/ViewController.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/ViewController.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/ViewController.o36"A4763967-CF31-44E5-8766-2CC3190FEFCA-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/main.o /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353515.715585
+e433353515.810509
+r1
+xCompileC
+xDerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/main.o
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/main.m
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/main.m224"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/main.o Selfiephoto/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler944fb72b73d4b941^473acf2b73d4b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/main.m0000000000000000^4200"CompileC DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/main.o Selfiephoto/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -include /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/main.dia -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/main.m -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/main.o36"C6783A35-9FB7-4457-AB22-567AB4047D49-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCompileStoryboard /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Base.lproj/Main.storyboard
+s433353517.356275
+e433353523.967362
+r1
+xCompileStoryboard
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard Selfiephoto/Base.lproj/Main.storyboard56"CompileStoryboard Selfiephoto/Base.lproj/Main.storyboardf54c5b2d73d4b941^c6a8f73373d4b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Base.lproj/Main.storyboard0000000000000000^908"CompileStoryboard Selfiephoto/Base.lproj/Main.storyboard    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Base.lproj/Main.storyboardc /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Base.lproj/Main.storyboard36"4A4DDCEE-AF6A-4909-9308-44170CBE80C3-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCopyPlistFile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/InstagramKit.plist Selfiephoto/InstagramKit.plist
+s433353517.318172
+e433353517.356019
+r1
+xCopyPlistFile
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/InstagramKit.plist
+xSelfiephoto/InstagramKit.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy Selfiephoto/InstagramKit.plist140"CopyPlistFile DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/InstagramKit.plist Selfiephoto/InstagramKit.plist658e512d73d4b941^a2255b2d73d4b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/InstagramKit.plist0000000000000000^603"CopyPlistFile DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/InstagramKit.plist Selfiephoto/InstagramKit.plist    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app -- Selfiephoto/InstagramKit.plist36"3D70D3BA-CD1B-4DE5-B31C-F362D248B9A9-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CCopyStringsFile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/en.lproj/InfoPlist.strings Selfiephoto/en.lproj/InfoPlist.strings
+s433353517.232030
+e433353517.317867
+r1
+xCopyStringsFile
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/en.lproj/InfoPlist.strings
+xSelfiephoto/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy Selfiephoto/en.lproj/InfoPlist.strings158"CopyStringsFile DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/en.lproj/InfoPlist.strings Selfiephoto/en.lproj/InfoPlist.strings52813b2d73d4b941^7061512d73d4b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/en.lproj/InfoPlist.strings0000000000000000^679"CopyStringsFile DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/en.lproj/InfoPlist.strings Selfiephoto/en.lproj/InfoPlist.strings    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/en.lproj -- Selfiephoto/en.lproj/InfoPlist.strings36"4DB7D463-5824-4498-A3F3-44C1D120ACAE-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CGenerateDSYMFile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app.dSYM /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto
+s433353525.838740
+e433353526.071102
+r1
+xGenerateDSYMFile
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app.dSYM
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Generate /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app.dSYM187"GenerateDSYMFile DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app.dSYM DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto5bcdd63573d4b941^444f123673d4b941^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app.dSYM0034546eddffdf42^814"GenerateDSYMFile DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app.dSYM DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app.dSYM36"FF2E7893-5D6E-468C-882F-A8039958A24C-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CLd /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto normal i386
+s433353515.870364
+e433353517.230083
+r1
+xLd
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto
+xnormal
+xi386
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/Selfiephoto.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperation.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/UIImageView+AFNetworking.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/ViewController.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPRequestOperationManager.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFNetworkReachabilityManager.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLResponseSerialization.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLConnectionOperation.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFSecurityPolicy.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFHTTPSessionManager.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLRequestSerialization.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AFURLSessionManager.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/AppDelegate.o
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Link /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto103"Ld DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto normal i386ebe6de2b73d4b941^e9283b2d73d4b941^---0#0#1#--1639"Ld DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto normal i386    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator -filelist /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/Selfiephoto.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Objects-normal/i386/Selfiephoto_dependency_info.dat -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Selfiephoto36"0C9B95F4-B110-408F-AC51-4007118AC1DC-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CProcessInfoPlistFile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Info.plist /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Info.plist
+s433353525.777739
+e433353525.837967
+r1
+xProcessInfoPlistFile
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Info.plist
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Process /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Info.plist143"ProcessInfoPlistFile DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Info.plist Selfiephoto/Selfiephoto-Info.plistd730c73573d4b941^6685d63573d4b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Info.plist0000000000000000^1069"ProcessInfoPlistFile DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Info.plist Selfiephoto/Selfiephoto-Info.plist    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Info.plist -genpkginfo /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/assetcatalog_generated_info.plist -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app/Info.plist36"B137FB94-7665-4584-B0F1-C3FB5F87DD4B-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CProcessPCH /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch.pch Selfiephoto/Selfiephoto-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s433353510.936832
+e433353514.123734
+r1
+xProcessPCH
+x/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch.pch
+xSelfiephoto/Selfiephoto-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Selfiephoto/Selfiephoto-Prefix.pch251"ProcessPCH DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch.pch Selfiephoto/Selfiephoto-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler77f8ef2673d4b941^70b01f2a73d4b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Prefix.pch0000000000000000^4080"ProcessPCH DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch.pch Selfiephoto/Selfiephoto-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tringappsinc/Documents/Sundara/Selfiephoto    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-generated-files.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-own-target-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-all-target-headers.hmap -iquote /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/Selfiephoto-project-headers.hmap -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources/i386 -I/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/Selfiephoto.build/Debug-iphonesimulator/Selfiephoto.build/DerivedSources -F/Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch.dia -MMD -MT dependencies -MF /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch.d -c /Users/tringappsinc/Documents/Sundara/Selfiephoto/Selfiephoto/Selfiephoto-Prefix.pch -o /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Intermediates/PrecompiledHeaders/Selfiephoto-Prefix-eshitycsevmdggemdqbmpxfeyyxr/Selfiephoto-Prefix.pch.pch36"219C9DCB-399F-4B92-9FB6-C0FA16706AE4-
+b08C14D26-26EB-4701-88B0-9FB25CAACDD7
+
+CProcessPCH /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Index/PrecompiledHeaders/Selfiephoto-Prefix-dbnksowhgkmrmdexrervhkhtxzng_ast/Selfiephoto-Prefix.pch.pch Selfiephoto/Selfiephoto-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/tringappsinc/Documents/Sundara/Selfiephoto/DerivedData/Selfiephoto/Build/Products/Debug-iphonesimulator/Selfiephoto.app
+r0
+
